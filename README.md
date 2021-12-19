@@ -1,2 +1,3 @@
 # dev-cheatsheets-lib
-Development cheatsheets.
+
+Development and other Cheatsheets.
